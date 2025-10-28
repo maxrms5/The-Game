@@ -1,0 +1,18 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+[CreateAssetMenu(fileName = "New Pixie", menuName = "Enemy/Pixie")]
+
+public class PixieData1 : ScriptableObject
+{
+    public int maxHealth = 30;
+    public int maxMana = 10;
+    public int attack = 5;
+    public int defence = 5; 
+
+    public string atkOne = "Tickle";
+    public string atkTwo = "Bite";
+    public string atkThree = "Zap";
+}
