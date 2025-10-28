@@ -62,7 +62,7 @@ Audio: Isaac DeLange, Nickolas Boldway<br/>
 <br/>
 ---Developed by Schmeblin Studios---<br/>
 <br/>
-Made with Unity<br/>
+Made with Unity 2022.3.22f1<br/>
 Art with Piskell<br/>
 
 
