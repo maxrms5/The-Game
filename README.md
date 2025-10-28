@@ -14,55 +14,55 @@ NOTE: This game was developed with a plot that was intentionally misleading and 
 The game opens with a cutscene of our protagonist's dream. He is called upon by what he believes to be an omniscient, omnipresent being. This being tells him that
 the world will end today unless he embarks upon a quest to stop it. The rest of the game then proceeds to never mention this cutscene again. 
 
-Level 1: Environmental Science
-  The first actual level, and the only current playable one, is a field trip to a swamp for an environmental science class. 
-    Enemies: Frogs, Slimes, Glockodiles
-    Boss: Giant Frog
+### Level 1: Environmental Science
+  The first actual level, and the only current playable one, is a field trip to a swamp for an environmental science class.<br/>
+    Enemies: Frogs, Slimes, Glockodiles<br/>
+    Boss: Giant Frog<br/>
     
-Level 2: English
-  The protagonist goes to his second period class, English. This class takes place in the school library.
-    Enemies: Flying Books, The Dog in the Cap, Shakespear
-    Boss: Steven Monarch
+### Level 2: English
+  The protagonist goes to his second period class, English. This class takes place in the school library.<br/>
+    Enemies: Flying Books, The Dog in the Cap, Shakespear<br/>
+    Boss: Steven Monarch<br/>
     
-Level 3: Math
-  The third period is math. Here, our protagonist takes another field trip to a casino to learn about probability.
-    Enemies: Angels, Demons
-    Boss: Giant Crab
+### Level 3: Math
+  The third period is math. Here, our protagonist takes another field trip to a casino to learn about probability.<br/>
+    Enemies: Angels, Demons<br/>
+    Boss: Giant Crab<br/>
 
-Level 4: Lunch
-  The fourth level takes place during lunch in the school cafeteria.
-    Enemies: Lesser Lunch Ladies, Super Senior
-    Boss: Lunch Lady
+### Level 4: Lunch
+  The fourth level takes place during lunch in the school cafeteria.<br/>
+    Enemies: Lesser Lunch Ladies, Super Senior<br/>
+    Boss: Lunch Lady<br/>
     
-Secret Level: 
-  Takes place if you venture into the bathroom during lunch. This level is an underwater style level, taking place in the sewer of the toilets. 
-    Enemies: ???
-    Boss: ???
+### Secret Level: 
+  Takes place if you venture into the bathroom during lunch. This level is an underwater style level, taking place in the sewer of the toilets.<br/>
+    Enemies: ???<br/>
+    Boss: ???<br/>
 
-Level 5: PE
-  The fifth-period PE class. This class takes place in the school gymnasium, where the PE teacher, Mr. Schmeblin, resides.
-    Enemies: Lesser Bullies
-    Boss: Mr. Schmeblin
+### Level 5: PE
+  The fifth-period PE class. This class takes place in the school gymnasium, where the PE teacher, Mr. Schmeblin, resides.<br/>
+    Enemies: Lesser Bullies<br/>
+    Boss: Mr. Schmeblin<br/>
     
-Level 6: Computer Science
+### Level 6: Computer Science
   The 6th and final level was the most fleshed out of all the levels. It would take place during computer science class. The protagonist would get sucked into
   a computer, a la The Magic Schoolbus, and would have to find his way out. Along the way, he would encounter Computer Pixies that would try to stop him. After 
   successfully fighting his way through them, he would encounter the boss of the game: The Pixie Queen. Defeating her would trigger the end cutscene: The 
-  protagonist goes to bed and is woken up the next day by the *exact* same vision from the beginning cutscene.
-    Enemies: Computer Pixies
-    Boss: The Pixie Queen
+  protagonist goes to bed and is woken up the next day by the *exact* same vision from the beginning cutscene.<br/>
+    Enemies: Computer Pixies<br/>
+    Boss: The Pixie Queen<br/>
 
 # Credits
-Game Code: Maxwell Smith, Britton Dodge, Tiberius Herbert
-Character Art: Niko Goosieff, Britton Dodge, Eamonn Costello, Michael Richards, Magnus Blazer, Will Whales, Luis Ramirez
-Scene Art: Niko Goosieff, Alexander Ochoa, Magnus Blazer, Michael Richards
-Effect Art: Luis Ramirez
-Lead Story: Eamonn Costello, Britton Dodge
-Audio: Isaac DeLange, Nickolas Boldway
-
----Developed by Schmeblin Studios---
-
-Made with Unity
-Art with Piskell
+Game Code: Maxwell Smith, Britton Dodge, Tiberius Herbert<br/>
+Character Art: Niko Goosieff, Britton Dodge, Eamonn Costello, Michael Richards, Magnus Blazer, Will Whales, Luis Ramirez<br/>
+Scene Art: Niko Goosieff, Alexander Ochoa, Magnus Blazer, Michael Richards<br/>
+Effect Art: Luis Ramirez<br/>
+Lead Story: Eamonn Costello, Britton Dodge<br/>
+Audio: Isaac DeLange, Nickolas Boldway<br/>
+<br/>
+---Developed by Schmeblin Studios---<br/>
+<br/>
+Made with Unity<br/>
+Art with Piskell<br/>
 
 
